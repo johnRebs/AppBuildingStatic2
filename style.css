@@ -1,0 +1,23 @@
+/* Global styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#home {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  height: 100vh;
+}
+
+#contact {
+  background: linear-gradient(to right, #2575fc, #6a11cb);
+}
+
+footer {
+  background: #333;
+}
